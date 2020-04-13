@@ -1,0 +1,2 @@
+# easywechat-extension
+扩展easywechat，主要是针对easywechat不及时更新版本时，可以自主扩展微信的api接口
