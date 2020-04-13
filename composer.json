@@ -1,0 +1,19 @@
+{
+  "name": "phper666/easywechat-extension",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "liyuzhao",
+      "email": "562405704@qq.com"
+    }
+  ],
+  "require": {
+    "overtrue/wechat": "~4.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Phper666\\EasywechatExtension\\": "src/"
+    },
+    "files": []
+  }
+}
