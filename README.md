@@ -17,7 +17,7 @@
 ```
 // 使用原来的easywechat接口：
 $config = []; // 自行写上自己的配置
-$app = Factory::work($config);
+$app = Factory::work($config); // 可以继续请求easywechat封装好的接口
 
 // 使用自己扩展的接口(包含了easywechat的原有接口)
 $app = Factory::customMake('Work', $config);
